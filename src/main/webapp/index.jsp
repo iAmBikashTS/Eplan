@@ -22,7 +22,7 @@
 						<button class="btn btn-danger" id="delrow" type="button">Del Row</button>
 					</th>
 				</tr>
-				<tr>
+				<tr>sfsdfsd
 					<th scope="col"><input type="checkbox" name="select"></th>
 					<th scope="col">Name</th>
 					<th scope="col"><select name="id">
